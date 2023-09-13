@@ -8,4 +8,8 @@ Analog slicers board - front view
 <br>
 Analog slicers board -rear view
 
+<hr>
+Download the last Gerber (.zip) file in the <a href="#">releases</a> section.
+<hr>
+
 ⚠️ Under construction
