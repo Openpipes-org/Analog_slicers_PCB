@@ -9,7 +9,7 @@ Analog sliders board - front view
 Analog sliders board -rear view
 
 <hr>
-Download the last Gerber (.zip) file in the <a href="#">releases</a> section.
+Download the last Gerber (.zip) file in the <a href="https://github.com/Openpipes-org/Analog_sliders_PCB/releases">releases</a> section.
 <hr>
 
 ⚠️ Under construction
